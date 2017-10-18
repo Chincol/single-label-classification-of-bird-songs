@@ -1,7 +1,7 @@
 # single-label-classification-of-bird-songs
 This is a system developed to classify single label bird song present in an audio wave file. The classificartion is done using Deep Neural Network which is first trained by using providing training dataset and then furter classify the files using trained network.
 
-*************************** To train and test the network *************************
+
 Files are to be used in the order they are mentioned in this readme file.
 Files are to be run on the same system as the class labels order may change with system.
 
